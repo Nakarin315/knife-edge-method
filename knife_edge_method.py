@@ -1,6 +1,5 @@
 """
 Estimate Gaussian beam radius using knife-edge method
-with background correction
 """
 import numpy as np
 import matplotlib.pyplot as plt
